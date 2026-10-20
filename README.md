@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 AI-Powered Cyber & Data Architects
 
-<!--
-**sylinux/sylinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official profile of **sylinux**. We engineer secure, high-performance tech infrastructures—bridging enterprise B2B compliance with mass-scale gaming data.
 
-Here are some ideas to get you started:
+## 🛡️ Areas of Expertise
+* **Cybersecurity & EASM:** Automated external GDPR compliance scanning and attack surface management.
+* **OSINT & Intelligence:** Advanced open-source data mining, analysis, and strategic intelligence tracking.
+* **High-Scale Gaming Tech:** Real-time metrics processing and telemetry infrastructure for gaming ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Repositories
+* [💡 MimeMask](https://github.com) - Advanced security & automated compliance validator.
+* [🔒 GDPR Scanner](https://github.com) - External Attack Surface Management scanner for enterprise defense.
+* [🎮 GamePulse](https://github.com) - Live data analytics and engagement insights for gaming communities.
+
+---
+📥 **Ready to scale your enterprise technology?** Reach out at [sylinux@sylvain1963.in](mailto:sylinux@sylvain1963.in)
+☕ **Support our open-source initiatives:** [Buy us a coffee on Ko-fi](https://ko-fi.com)
