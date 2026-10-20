@@ -14,4 +14,4 @@ Welcome to the official profile of **sylinux**. We engineer secure, high-perform
 
 ---
 📥 **Ready to scale your enterprise technology?** Reach out at [sylinux@sylvain1963.in](mailto:sylinux@sylvain1963.in)
-☕ **Support our open-source initiatives:** [Buy us a coffee on Ko-fi](https://ko-fi.com)
+💎 **Support our open-source initiatives:** [Make a donation via Ko-fi](https://ko-fi.com/sylas3691)
