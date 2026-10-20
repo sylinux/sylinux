@@ -16,7 +16,6 @@ Welcome to the official profile of **sylinux**. We engineer secure, high-perform
 📥 **Ready to scale your enterprise technology?** Reach out at [sylinux@sylvain1963.in](mailto:sylinux@sylvain1963.in)
 💎 **Support our open-source initiatives:** [Make a donation via Ko-fi](https://ko-fi.com/sylas3691)
 
-
 ## 💎 Corporate Sponsors & Backers
 
 We are backed by forward-thinking companies and individuals who value open-source security and high-scale data solutions.
@@ -24,7 +23,7 @@ We are backed by forward-thinking companies and individuals who value open-sourc
 ### 🥇 Gold Sponsors (Enterprise)
 <!-- START GOLD SPONSORS -->
 
-| [![Your Company](https://shields.io)](https://ko-fi.com) |
+| [![Your Company](https://shields.io)](https://ko-fi.com/sylas3691) |
 | :---: |
 | **Available Slot** |
 <!-- END GOLD SPONSORS -->
@@ -36,4 +35,4 @@ We are backed by forward-thinking companies and individuals who value open-sourc
 
 ---
 ### 💖 Individual Backers
-Thank you to everyone making regular monthly donations! Want to see your avatar here? [Become a backer on Ko-fi](https://ko-fi.com).
+Thank you to everyone making regular monthly donations! Want to see your avatar here? [Become a backer on Ko-fi](https://ko-fi.com/sylas3691).
